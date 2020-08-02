@@ -1,0 +1,2 @@
+#!/bin/sh
+GIT_WORK_TREE=/home/ceaman/cea.guide git checkout -f
