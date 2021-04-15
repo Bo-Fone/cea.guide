@@ -170,4 +170,15 @@ $RECYCLE.BIN/
 *.sass.map
 *.scss.map
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,node
